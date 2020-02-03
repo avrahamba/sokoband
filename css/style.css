@@ -1,0 +1,33 @@
+.edge {
+    height: 40px;
+    width: 40px;
+}
+
+.cell {
+    float: left;
+    height: 40px;
+    width: 40px;
+}
+
+.c0 {
+    background-color: white;
+}
+
+.c1 {
+    background-color: black;
+}
+
+.c2 {
+    background-image: url("../img/man.png");
+    background-size: cover;
+}
+
+.c3 {
+    background-image: url("../img/box.png");
+    background-size: cover;
+}
+
+.c4 {
+    background-image: url("../img/Target.png");
+    background-size: cover;
+}
